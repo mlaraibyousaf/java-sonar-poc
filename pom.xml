@@ -4,8 +4,9 @@
   <artifactId>Second_Demo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <description>simple project</description>
-</project>
-<properties>
+  <properties>
   <sonar.organization>mlaraibyousaf</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-</properties>
+  </properties>
+</project>
+
